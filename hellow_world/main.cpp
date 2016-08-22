@@ -5,7 +5,9 @@
 
 int main()
 {
-	printf("hi firend, I'm arturd and ben");
+	printf("hi firend, I'm arturd and ben.");
+
+	printf(" i made a change");
 
 	getchar();
 	
